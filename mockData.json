@@ -1,12 +1,8 @@
 {
-    "感冒":[ {"id": 1,  "content": "咳嗽"}, {"id": 2,  "content": "恶寒"}，
-         {"id": 2,  "content": "流涕"}， {"id": 2,  "content": "发热"}]
-     ,
-    
+    "感冒":[ {"id": 1,  "content": "咳嗽"}, {"id": 2,  "content": "恶寒"},
+         {"id": 2, "content": "流涕"},{"id": 2,  "content": "发热"}],
      "咳嗽":  [ {"id": 1,  "content": "咳嗽"},
-         {"id": 2,  "content": "咳痰"}]
-     ,
+         {"id": 2,  "content": "咳痰"}],
      "头晕": [  {"id": 1,  "content": "晕晕沉沉"},
-         {"id": 2, "content": "天旋地转"}]
-     
+         {"id": 2, "content": "天旋地转"}] 
  }
